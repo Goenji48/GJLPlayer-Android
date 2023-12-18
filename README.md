@@ -1,32 +1,36 @@
 # GJLPlayer-Android
 
-Reprodutor de Música desenvolvido em Java para dispositivos Android
+Reprodutor de mídia desenvolvido em Java para dispositivos Android
+
+Realize downloads de áudios e vídeos de diversas plataformas de forma fácil
 
 Ouça músicas sem interrupções com tela apagada
 
 *Projeto foi criado com objetivo de adquirir conhecimentos em desenvolvimento mobile (hobby)*
 
-Repositório principal será liberado após o lançamento da versão estável (sem previsão)
+*O aplicativo está na versão beta, está sujeito a ocorrer bugs e crashs*
 
 Requisitos:
 
-* Android 5.1+
+* Android 6.0+
 * Funcionamento melhor a partir do Android 8.1
 * Tela com resolução de 480p ou superior (inferior pode causar mal funcionamento)
 
 ## English
 
-Music Player developed in Java for Android device
+Media player developed in Java for Android devices
 
-Listener Musics non stop with screen off
+Download audio and videos of various platforms in easy way
+
+Listener musics non stop with screen off
 
 *The project has been created with the goal of acquiring knowledge on mobile development (hobby)*
 
-Main Repository will be released after the release of the stable version (no prevision)
+*This application is beta version, may occur bugs e crashs*
 
 Requirements:
 
-* Android 5.1+
+* Android 6.0+
 * Work better from the Android 8.1
 * 480p screen resolution or better (less may cause malfunction)
 
