@@ -12,9 +12,9 @@ Ouça músicas sem interrupções com tela apagada
 
 Requisitos:
 
-* Android 6.0+
-* Funcionamento melhor a partir do Android 8.1
-* Tela com resolução de 480p ou superior (inferior pode causar mal funcionamento)
+* Android 6.0+ (Versões 6 até 7.1 não será possivel realizar downloads de arquivos)
+* Recomendado utilizar Android 10 ou superior
+* Tela com resolução de 480p ou superior (recomendado telas com proporções 18:9 ou superior)
 
 ## English
 
@@ -30,8 +30,8 @@ Listener musics non stop with screen off
 
 Requirements:
 
-* Android 6.0+
-* Work better from the Android 8.1
-* 480p screen resolution or better (less may cause malfunction)
+* Android 6.0+ (6 until 7.1 Android versions, you can't realize files downloads)
+* Recommended Android 10 or higher
+* 480p screen resolution or better (recommended 18:9 screen or higher)
 
 
